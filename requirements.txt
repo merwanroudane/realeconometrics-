@@ -1,12 +1,7 @@
 
+# requirements.txt
+
 streamlit
 pandas
-numpy
 plotly
-seaborn
-matplotlib
-scikit-learn
-scipy
-statsmodels
-openpyxl
-xlsxwriter
+numpy
